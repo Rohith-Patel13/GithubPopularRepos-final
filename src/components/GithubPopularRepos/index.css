@@ -1,0 +1,33 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.bg {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+.mainHead {
+  font-family: Lobster;
+}
+
+.ulLanguageFilterItem {
+  padding-left: 0px;
+  margin-left: 0px;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.ulRepositoryItem {
+  margin-left: 0px;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 0.5rem;
+}

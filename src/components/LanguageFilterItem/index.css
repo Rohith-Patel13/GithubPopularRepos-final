@@ -1,0 +1,12 @@
+/* Write your CSS here */
+
+.liLanguage {
+  margin: 1rem;
+  cursor: pointer;
+}
+
+.languagefilerBtn {
+  background-color: transparent;
+  border: 0px solid transparent;
+  cursor: pointer;
+}
